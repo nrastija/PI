@@ -18,4 +18,4 @@ Softversko rješenje podrazumijeva unapređenje kvalitete javnog gradskog prijev
 [Zadatak - Gradski prijevoz.pdf](https://github.com/nrastija/PI/blob/69aa2ba4954782cabf5b9700a052828d44b31dd9/Zadatak%20-%20Gradski%20prijevoz.pdf)
 
 ## Resursi
-https://github.com/foivz/pi2024-zadace-nrastija22foi/tree/037a26aba1087ec00965295fdd1de27cb1850472/Documentation
+[Svi resursi](https://github.com/nrastija/PI/tree/54d2b30e410a3031be4fe727f0196133c0c066d6/Documentation)

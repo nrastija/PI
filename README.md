@@ -5,7 +5,7 @@ Sustav upravljanja gradskim prijevozom putnika
 
 Ime i prezime | E-mail adresa (FOI) | JMBAG | Github korisničko ime
 ------------  | ------------------- | ----- | ---------------------
-Niko Rastija  | nrastija22@foi.hr | 0016169047 | nrastija22foi
+Niko Rastija  | nrastija22@foi.hr | --------- | -------------------
 
 
 ## Opis domene

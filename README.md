@@ -1,21 +1,17 @@
-# Naziv projekta
-Sustav upravljanja gradskim prijevozom putnika
+# About
+This project is part of the Program Engineering course in the second year of my undergraduate studies. It showcases my understanding and application of software engineering principles, including design patterns, coding best practices, and collaborative development using Git. Through this project, I aim to demonstrate my growing proficiency in building scalable, maintainable software solutions.
 
-## Podaci o studentu
+# Project Title
+City Passenger Transport Management System
 
-Ime i prezime | E-mail adresa (FOI) | JMBAG | Github korisničko ime
-------------  | ------------------- | ----- | ---------------------
-Niko Rastija  | nrastija22@foi.hr | --------- | -------------------
+## Domain Description
+The task is to design and create a software solution for managing the public transport system of the city of Varaždin.
 
+## Project Specification
+The software solution aims to improve the quality of public transport services for clients while simultaneously modernizing the system for digitally entering new timetables. The solution involves the ability for employees to create, edit, and delete timetables and other related information. The requirement includes the ability for the public to view existing timetables, the buses operating on them, and the stations where they stop. A bus tracking system needs to be designed to accurately display the bus location at stations, as well as the estimated arrival time.
 
-## Opis domene
-Potrebno je osmisliti i kreirati softversko rješenje za upravljanje gradskim prijevozom grada Varaždina.
-
-## Specifikacija projekta
-Softversko rješenje podrazumijeva unapređenje kvalitete javnog gradskog prijevoza za klijente, a istovremeno i moderniziranje sustava unosa novih voznih redova digitalno. Rješenje podrazumijeva mogućnost kreiranja, uređivanja i brisanja voznih redova te ostalih informacija od strane zaposlenika. Zahtjev podrazumijeva mogućnost javnog pregleda postojećih voznih redova, autobusa koji voze njima te stanica na kojima staju. Potrebno je osmisliti sistem praćenja autobusa koji će točno ispisati lokaciju autobusa na stanicama, kao i vrijeme potrebno za dolazak. 
-
-## Zadatak
+## Task
 [Zadatak - Gradski prijevoz.pdf](https://github.com/nrastija/PI/blob/69aa2ba4954782cabf5b9700a052828d44b31dd9/Zadatak%20-%20Gradski%20prijevoz.pdf)
 
-## Resursi
+## Resources
 [Svi resursi](https://github.com/nrastija/PI/tree/54d2b30e410a3031be4fe727f0196133c0c066d6/Documentation)
